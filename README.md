@@ -6,11 +6,8 @@ Welcome to my GitHub! I am Aditya Vijay Nair, a data scientist with a robust bac
 ## Skills
 - **Programming Languages:** Python, R, SQL, JavaScript
 - **Data Processing:** Spark, Databricks, Snowflake
-- **Analytics Tools:** Looker, PowerBI, QlikSense
-- **Frameworks and Libraries:** Node.js, TypeORM, Nest.js, Vue.js
-- **Machine Learning:** XGBoost, Logistic Regression, Random Forest, A/B Testing
-- **Other Tools:** AirFlow, Relational Databases (SQL), Distributed Computing
-
+- **Analytics and Visualization Tools:** Looker, PowerBI, QlikSense, Tableau
+- **Data Science Skills:** Machine Learning, Data Mining, Deep Learning, Distributed Computing, Data Visualization 
 
 ## Contact
 - **Email:** adityanair98@gmail.com
